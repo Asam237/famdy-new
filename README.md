@@ -7,7 +7,7 @@ It's a link shortening and bookmarking application designed to create concise li
 This project is maintained by:
 
 - Abba Sali Aboubakar Mamate ([@asam_237](https://twitter.com/asam_237))
-- my website: [https://abbasali.vercel.app](https://abbasali.cm)
+- my website: [https://abbasali.cm](https://abbasali.cm)
 - email: abbasalimokolo@gmail.com
 - mobile: (+237) 691846922
   <br/>
